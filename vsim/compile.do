@@ -140,5 +140,5 @@ vlog -incr -mfcu -sv -svinputport=compat -l compile.log \
 "../rtl/apb_uart/uart_transmitter.sv" \
 "../rtl/fortalesa/wallace_trunc.sv" \
 "../rtl/mbist/memory_initializer.sv" \
-"../rtl/tb_croc_soc_2.sv" \
+"../rtl/tb_croc_soc.sv" \
 

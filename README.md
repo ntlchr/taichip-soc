@@ -6,7 +6,7 @@ FORTALESA is a systolic array architecture with three execution modes for run-ti
 
 The platform features multiple fault tolerance features, including dual-lockstep for RISC-V core, fault tolerant OBI bus infrastructure, ECC on memories, reconfigurable redundancy for FORTALESA accelerator, and MBIST.
 
-The SoC is developed within the [TAICHIP](https://taichip.taltech.ee/) project (Boosting TalTech Capacity in Reliable and Efficient AI-Chip Design). The name FURIES comes from the opening lines of the poem [Reflection](https://www.poeticous.com/r-s-thomas/reflections) by R.S. Thomas (__"The furies are at home in the mirror; it is their address."__) quoted in [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium).
+The SoC is developed within the [TAICHIP](https://taichip.taltech.ee/) project (Boosting TalTech Capacity in Reliable and Efficient AI-Chip Design). The name FURIES comes from the opening lines of the poem [Reflection](https://www.poeticous.com/r-s-thomas/reflections) by R.S. Thomas (_"The furies are at home in the mirror; it is their address."_) quoted in [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium).
 
 The chip was designed with open source EDA tools and the [IHP Open Source PDK SG13CMOS5L](https://github.com/IHP-GmbH/ihp-sg13cmos5l).
 
