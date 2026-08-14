@@ -1,0 +1,6 @@
+[submodule "ihp13/sg13cmos5l"]
+	path = ihp13/sg13cmos5l
+	url = https://github.com/IHP-GmbH/ihp-sg13cmos5l.git
+[submodule "ihp13/sg13g2"]
+	path = ihp13/sg13g2
+	url = https://github.com/IHP-GmbH/IHP-Open-PDK.git
