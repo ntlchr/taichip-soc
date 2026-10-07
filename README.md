@@ -29,7 +29,7 @@ The size of the FORTALESA systolic array is set to 12×12. The chip features 2 2
 - FORTALESA systolic array supports reconfigurable redundancy (see more detailes below).
 - MBIST (see more details below).
 
-The final size of the chip (including sealring) is 5000×4500 μm<sup>2</sup>.
+The final size of the chip (including sealring) is 5000×4000 μm<sup>2</sup>.
 
 ![taichip_soc_diagram.png](doc/img/taichip_soc_diagram.png)
 
